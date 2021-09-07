@@ -1,0 +1,50 @@
+C:\Users\Snisarenko.IS\documents\visual studio 2010\Projects\Text_analyzer\Text_analyzer\bin\Debug\Text_analyzer.exe
+C:\Users\Snisarenko.IS\documents\visual studio 2010\Projects\Text_analyzer\Text_analyzer\bin\Debug\Text_analyzer.pdb
+C:\Users\Snisarenko.IS\documents\visual studio 2010\Projects\Text_analyzer\Text_analyzer\bin\Debug\Xceed.Document.NET.dll
+C:\Users\Snisarenko.IS\documents\visual studio 2010\Projects\Text_analyzer\Text_analyzer\bin\Debug\Xceed.Words.NET.dll
+C:\Users\Snisarenko.IS\documents\visual studio 2010\Projects\Text_analyzer\Text_analyzer\obj\x86\Debug\Text_analyzer.Form1.resources
+C:\Users\Snisarenko.IS\documents\visual studio 2010\Projects\Text_analyzer\Text_analyzer\obj\x86\Debug\Text_analyzer.Properties.Resources.resources
+C:\Users\Snisarenko.IS\documents\visual studio 2010\Projects\Text_analyzer\Text_analyzer\obj\x86\Debug\Text_analyzer.csproj.GenerateResource.Cache
+C:\Users\Snisarenko.IS\documents\visual studio 2010\Projects\Text_analyzer\Text_analyzer\obj\x86\Debug\Text_analyzer.exe
+C:\Users\Snisarenko.IS\documents\visual studio 2010\Projects\Text_analyzer\Text_analyzer\obj\x86\Debug\Text_analyzer.pdb
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\Text_analyzer.exe
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\Text_analyzer.pdb
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\commons-logging.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\fontbox-1.8.9.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\IKVM.Runtime.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\itextsharp.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\pdfbox-1.8.9.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\Xceed.Document.NET.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\Xceed.Words.NET.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\junit.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\jempbox-1.8.9.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\bcmail-jdk15-1.44.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\bcprov-jdk15-1.44.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\icu4j-3.8.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\obj\x86\Debug\Interop.Acrobat.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\obj\x86\Debug\Interop.PDFFilterLib.dll
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\obj\x86\Debug\Text_analyzer.csproj.ResolveComReference.cache
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\obj\x86\Debug\Text_analyzer.Activator.resources
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\obj\x86\Debug\Text_analyzer.Form1.resources
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\obj\x86\Debug\Text_analyzer.Properties.Resources.resources
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\obj\x86\Debug\Text_analyzer.csproj.GenerateResource.Cache
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\obj\x86\Debug\Text_analyzer.exe
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\obj\x86\Debug\Text_analyzer.pdb
+C:\Users\Snisarenko.IS\Desktop\Prof\Text_analyzer\Text_analyzer\obj\x86\Debug\Text_analyzer.csprojResolveAssemblyReference.cache
